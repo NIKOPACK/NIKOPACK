@@ -13,8 +13,6 @@
   <a href="https://github.com/NIKOPACK/Ti-trader">Ti</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/NIKOPACK/QnQ">QnQ</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.npmjs.com/package/ti-trader">npm</a>
 </p>
 
 <p align="center"><strong>❄ Toolkit</strong></p>
