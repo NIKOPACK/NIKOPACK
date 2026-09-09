@@ -15,6 +15,17 @@
   <a href="https://github.com/NIKOPACK/QnQ">QnQ</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bad-apple.gif" />
+    <img src="./assets/bad-apple-light.gif" alt="Bad Apple!! feat. nomico" width="480" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Bad Apple!! feat. nomico · Alstroemeria Records</sub>
+</p>
+
 <p align="center"><strong>❄ Toolkit</strong></p>
 
 <table align="center">
