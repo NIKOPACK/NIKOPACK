@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="./banner.webp" alt="NIKOPACK — Turning ideas into reality." width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="69%" valign="middle">
+      <img src="./banner.webp" alt="NIKOPACK — Turning ideas into reality." width="100%" />
+    </td>
+    <td width="31%" valign="middle" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/bad-apple.gif" />
+        <img src="./assets/bad-apple-light.gif" alt="Bad Apple!! feat. nomico" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
@@ -13,17 +23,6 @@
   <a href="https://github.com/NIKOPACK/Ti-trader">Ti</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/NIKOPACK/QnQ">QnQ</a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/bad-apple.gif" />
-    <img src="./assets/bad-apple-light.gif" alt="Bad Apple!! feat. nomico" width="480" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Bad Apple!! feat. nomico · Alstroemeria Records</sub>
 </p>
 
 <p align="center"><strong>❄ Toolkit</strong></p>

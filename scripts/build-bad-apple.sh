@@ -11,7 +11,7 @@ if [[ -z "$src" || ! -f "$src" ]]; then
 fi
 
 mkdir -p "$root/assets"
-vf_base="fps=12,scale=480:360:flags=lanczos,hue=s=0,eq=contrast=100"
+vf_base="fps=12,scale=240:180:flags=lanczos,hue=s=0,eq=contrast=100"
 vf_gif="format=rgb24,split[s0][s1];[s0]palettegen=max_colors=2:reserve_transparent=0:stats_mode=full[p];[s1][p]paletteuse=dither=none"
 
 ffmpeg -y -i "$src" -vf "${vf_base},${vf_gif}" -loop 0 "$root/assets/bad-apple.gif"
