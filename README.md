@@ -69,12 +69,19 @@ nikopack@dev ~ % cat toolkit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NIKOPACK&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1&ring_color=22D3EE" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NIKOPACK&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F8FAFC&title_color=0369A1&icon_color=0284C7&text_color=334155&ring_color=0891B2" alt="NIKOPACK GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NIKOPACK&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1&ring_color=22D3EE" />
+    <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NIKOPACK&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F8FAFC&title_color=0369A1&icon_color=0284C7&text_color=334155&ring_color=0891B2" alt="NIKOPACK GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOPACK&layout=compact&langs_count=6&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOPACK&layout=compact&langs_count=6&hide_border=true&bg_color=F8FAFC&title_color=0369A1&text_color=334155" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=NIKOPACK&layout=compact&langs_count=6&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1" />
+    <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=NIKOPACK&layout=compact&langs_count=6&hide_border=true&bg_color=F8FAFC&title_color=0369A1&text_color=334155" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NIKOPACK&hide_border=true&background=0B1220&ring=22D3EE&fire=38BDF8&currStreakNum=7DD3FC&sideNums=CBD5E1&currStreakLabel=7DD3FC&sideLabels=94A3B8&dates=64748B" />
+    <img height="165" src="https://streak-stats.demolab.com?user=NIKOPACK&hide_border=true&background=F8FAFC&ring=0891B2&fire=0284C7&currStreakNum=0369A1&sideNums=334155&currStreakLabel=0369A1&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
   </picture>
 </p>
 
