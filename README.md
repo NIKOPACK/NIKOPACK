@@ -27,25 +27,19 @@
 
 <p align="center"><strong>❄ Toolkit</strong></p>
 
-<table align="center">
-  <tr>
-    <td>
-<pre>
+```text
 nikopack@dev ~ % cat toolkit
 
   languages    TypeScript · Python · Go · Flutter
   build with   React Native · Expo · Vue · Spring Boot
   agents       MCP · Skills · CrewAI · LangGraph · Pi
   now using    Claude Code · Codex
-</pre>
-    </td>
-  </tr>
-</table>
+```
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,go,react,flutter,vue,nodejs,linux,docker,github&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,python,go,react,flutter,vue,nodejs,linux,docker,github&theme=light" alt="TypeScript Python Go React Flutter Vue Node.js Linux Docker GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,go,react,flutter,vue,spring,linux,docker,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,python,go,react,flutter,vue,spring,linux,docker,github&theme=light" alt="TypeScript Python Go React Flutter Vue Spring Linux Docker GitHub" />
   </picture>
 </p>
 
