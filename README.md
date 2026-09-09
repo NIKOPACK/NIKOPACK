@@ -27,14 +27,11 @@
 
 <p align="center"><strong>❄ Toolkit</strong></p>
 
-```text
-nikopack@dev ~ % cat toolkit
-
-  languages    TypeScript · Python · Go · Flutter
-  build with   React Native · Expo · Vue · Spring Boot
-  agents       MCP · Skills · CrewAI · LangGraph · Pi
-  now using    Claude Code · Codex
-```
+<p align="center">
+  TypeScript · Python · Go · Flutter<br />
+  React Native · Expo · Vue · Spring Boot<br />
+  MCP · Skills · CrewAI · LangGraph · Pi
+</p>
 
 <p align="center">
   <picture>
