@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.webp" alt="NIKOPACK — Building agents. Shipping ideas." width="100%" />
+  <img src="./banner.webp" alt="NIKOPACK — Turning ideas into reality." width="100%" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1400&color=7DD3FC&center=true&vCenter=true&width=620&lines=%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%AE%A9+Agent+%E8%B5%B0%E8%BF%9B%E5%AE%9E%E9%99%85%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%82;Building+agents.+Shipping+ideas." />
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1400&color=0369A1&center=true&vCenter=true&width=620&lines=%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%AE%A9+Agent+%E8%B5%B0%E8%BF%9B%E5%AE%9E%E9%99%85%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%82;Building+agents.+Shipping+ideas." alt="把想法做成工具，让 Agent 走进实际工作流。" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1400&color=7DD3FC&center=true&vCenter=true&width=620&lines=%E8%AE%A9%E6%83%B3%E6%B3%95%E6%88%90%E4%B8%BA%E7%8E%B0%E5%AE%9E;Turning+ideas+into+reality." />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1400&color=0369A1&center=true&vCenter=true&width=620&lines=%E8%AE%A9%E6%83%B3%E6%B3%95%E6%88%90%E4%B8%BA%E7%8E%B0%E5%AE%9E;Turning+ideas+into+reality." alt="让想法成为现实" />
   </picture>
 </p>
 
