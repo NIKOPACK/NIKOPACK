@@ -1,38 +1,3 @@
-<table width="100%">
-  <tr>
-    <td width="69%" valign="middle">
-      <img src="./banner.webp" alt="NIKOPACK — Turning ideas into reality." width="100%" />
-    </td>
-    <td width="31%" valign="middle" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/bad-apple.gif" />
-        <img src="./assets/bad-apple-light.gif" alt="Bad Apple!! feat. nomico" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1600&color=7DD3FC&center=true&vCenter=true&width=320&lines=%E8%AE%A9%E6%83%B3%E6%B3%95%E6%88%90%E4%B8%BA%E7%8E%B0%E5%AE%9E" />
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=22&duration=2800&pause=1600&color=0369A1&center=true&vCenter=true&width=320&lines=%E8%AE%A9%E6%83%B3%E6%B3%95%E6%88%90%E4%B8%BA%E7%8E%B0%E5%AE%9E" alt="让想法成为现实" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NIKOPACK/Ti-trader">Ti</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/NIKOPACK/QnQ">QnQ</a>
-</p>
-
-<p align="center"><strong>❄ Toolkit</strong></p>
-
-<p align="center">
-  TypeScript · Python · Go · Flutter<br />
-  React Native · Expo · Vue · Spring Boot<br />
-  MCP · Skills · CrewAI · LangGraph · Pi
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,go,react,flutter,vue,spring,linux,docker,github&theme=dark" />
